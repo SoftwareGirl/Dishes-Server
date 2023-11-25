@@ -23,14 +23,6 @@ The FastAPI server exposes the following endpoints:
 ## User Interface
 Please access the UI client with this URL: https://github.com/SoftwareGirl/Dishes-Client
 
-## Getting Started
-To get started with this project, follow these steps:
-
-1. Clone the repository from [GitHub](https://github.com/your-repo-link).
-2. Install the required dependencies by running `pip install -r requirements.txt`.
-3. Start the FastAPI server by running `uvicorn main:app --reload`.
-4. Access the endpoints using the provided URLs, such as `http://127.0.0.1:8000/dishes/`.
-
 ## Dependencies
 This project relies on the following dependencies:
 
@@ -39,6 +31,13 @@ This project relies on the following dependencies:
 - Other dependencies specified in the `requirements.txt` file.
 - In addition to Python requirements, one needs to download dishes image collection from this Google drive Link and unzip it to the project root: https://drive.google.com/file/d/1WYjnjsDGQp-icIRSs6JVslNqfy4FoBHz/view?usp=sharing
 
+## Getting Started
+To get started with this project, follow these steps:
+
+1. Clone the repository from [GitHub](https://github.com/your-repo-link).
+2. Install the required dependencies by running `pip install -r requirements.txt`.
+3. Start the FastAPI server by running `uvicorn main:app --reload`.
+4. Access the endpoints using the provided URLs, such as `http://127.0.0.1:8000/dishes/`.
 
 ## References
 - [FastAPI Documentation](https://fastapi.tiangolo.com/)
